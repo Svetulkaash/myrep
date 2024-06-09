@@ -1,1 +1,2 @@
 # myrep
+GIT Ashurkova Svetlana
